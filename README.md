@@ -1,5 +1,5 @@
-# 📚 **Aplicación de Consola para Gestión de Libros y Autores**
-
+# 📚 **Literalura**
+*Aplicación de Consola para Gestión de Libros y Autores*
 Hola, esta es una aplicación sencilla que hice como parte de los desafíos de los cursos de Java en Alura Latam y Oracle. La idea era practicar conceptos importantes de backend y también aprender a consumir APIs gratuitas, en este caso, usé la API de Gutendex.com para obtener información de libros. 🚀
 
 ---
