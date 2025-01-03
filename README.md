@@ -50,12 +50,11 @@ Para correr el proyecto necesitas:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-repo/aplicacion-consola.git
-   cd aplicacion-consola
+   git clone https://github.com/ReyGaRGoL/Literalura.git
    ```
 
 2. **Configurar la base de datos**:
-   - Crea una base de datos en PostgreSQL llamada `biblioteca`.
+   - Crea una base de datos en PostgreSQL llamada `literalura`.
    - Configura el archivo `application.properties` con tus credenciales de PostgreSQL.
 
 3. **Compilar y correr**:
